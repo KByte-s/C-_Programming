@@ -1,0 +1,3 @@
+D:/Code/Cpp/C++designcourse/2.1timecounter/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Code/Cpp/C++designcourse/2.1timecounter/cmake-build-debug/CMakeFiles/2_1timecounter.dir
+D:/Code/Cpp/C++designcourse/2.1timecounter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
