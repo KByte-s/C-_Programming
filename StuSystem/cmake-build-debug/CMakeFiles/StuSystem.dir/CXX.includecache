@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Code/Cpp/C++designcourse/StuSystem/Function.cpp
+Function.h
+D:/Code/Cpp/C++designcourse/StuSystem/Function.h
+
+D:/Code/Cpp/C++designcourse/StuSystem/Function.h
+iostream
+-
+Student.h
+D:/Code/Cpp/C++designcourse/StuSystem/Student.h
+vector
+-
+fstream
+-
+
+D:/Code/Cpp/C++designcourse/StuSystem/Student.cpp
+Student.h
+D:/Code/Cpp/C++designcourse/StuSystem/Student.h
+
+D:/Code/Cpp/C++designcourse/StuSystem/Student.h
+iostream
+-
+vector
+-
+fstream
+-
+
+D:/Code/Cpp/C++designcourse/StuSystem/main.cpp
+Function.h
+D:/Code/Cpp/C++designcourse/StuSystem/Function.h
+

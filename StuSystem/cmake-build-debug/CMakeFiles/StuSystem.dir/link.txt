@@ -1,0 +1,3 @@
+"E:\JetBrains\CLion 2018.1\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\StuSystem.dir/objects.a
+E:\MinGW\mingw64-win32\bin\ar.exe cr CMakeFiles\StuSystem.dir/objects.a @CMakeFiles\StuSystem.dir\objects1.rsp
+E:\MinGW\mingw64-win32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\StuSystem.dir/objects.a -Wl,--no-whole-archive  -o StuSystem.exe -Wl,--out-implib,libStuSystem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\StuSystem.dir\linklibs.rsp

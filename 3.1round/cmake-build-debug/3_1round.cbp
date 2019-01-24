@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="3_1round"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_1round">
+				<Option output="D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/3_1round.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/MinGW/mingw64-win32/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="E:/MinGW/mingw64-win32/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/MinGW/mingw64-win32/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="E:/MinGW/mingw64-win32/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="E:/MinGW/mingw64-win32/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="E:/MinGW/mingw64-win32/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_1round"/>
+					<CompileFile command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_1round/fast">
+				<Option output="D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/3_1round.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/MinGW/mingw64-win32/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="E:/MinGW/mingw64-win32/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/MinGW/mingw64-win32/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="E:/MinGW/mingw64-win32/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="E:/MinGW/mingw64-win32/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="E:/MinGW/mingw64-win32/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_1round/fast"/>
+					<CompileFile command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/MinGW/mingw64-win32/bin/mingw32-make.exe -f &quot;D:/Code/Cpp/C++designcourse/3.1round/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Code/Cpp/C++designcourse/3.1round/Line.cpp">
+			<Option target="3_1round"/>
+		</Unit>
+		<Unit filename="D:/Code/Cpp/C++designcourse/3.1round/Line.h">
+			<Option target="3_1round"/>
+		</Unit>
+		<Unit filename="D:/Code/Cpp/C++designcourse/3.1round/Oval.cpp">
+			<Option target="3_1round"/>
+		</Unit>
+		<Unit filename="D:/Code/Cpp/C++designcourse/3.1round/Oval.h">
+			<Option target="3_1round"/>
+		</Unit>
+		<Unit filename="D:/Code/Cpp/C++designcourse/3.1round/Point.cpp">
+			<Option target="3_1round"/>
+		</Unit>
+		<Unit filename="D:/Code/Cpp/C++designcourse/3.1round/Point.h">
+			<Option target="3_1round"/>
+		</Unit>
+		<Unit filename="D:/Code/Cpp/C++designcourse/3.1round/Round.cpp">
+			<Option target="3_1round"/>
+		</Unit>
+		<Unit filename="D:/Code/Cpp/C++designcourse/3.1round/Round.h">
+			<Option target="3_1round"/>
+		</Unit>
+		<Unit filename="D:/Code/Cpp/C++designcourse/3.1round/Triangle.cpp">
+			<Option target="3_1round"/>
+		</Unit>
+		<Unit filename="D:/Code/Cpp/C++designcourse/3.1round/Triangle.h">
+			<Option target="3_1round"/>
+		</Unit>
+		<Unit filename="D:/Code/Cpp/C++designcourse/3.1round/main.cpp">
+			<Option target="3_1round"/>
+		</Unit>
+		<Unit filename="D:/Code/Cpp/C++designcourse/3.1round/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
