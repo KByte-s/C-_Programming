@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Code/Cpp/C++designcourse/1.2welcome/Smile.cpp
+Smile.h
+D:/Code/Cpp/C++designcourse/1.2welcome/Smile.h
+
+D:/Code/Cpp/C++designcourse/1.2welcome/Smile.h
+iostream
+-
+string
+-
+
+D:/Code/Cpp/C++designcourse/1.2welcome/main.cpp
+iostream
+-
+Smile.h
+D:/Code/Cpp/C++designcourse/1.2welcome/Smile.h
+

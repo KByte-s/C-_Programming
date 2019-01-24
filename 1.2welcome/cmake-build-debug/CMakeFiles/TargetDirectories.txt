@@ -1,0 +1,3 @@
+D:/Code/Cpp/C++designcourse/1.2welcome/cmake-build-debug/CMakeFiles/1_2welcome.dir
+D:/Code/Cpp/C++designcourse/1.2welcome/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Code/Cpp/C++designcourse/1.2welcome/cmake-build-debug/CMakeFiles/rebuild_cache.dir

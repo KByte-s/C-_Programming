@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Code/Cpp/C++designcourse/2.1timecounter/Time.cpp
+Time.h
+D:/Code/Cpp/C++designcourse/2.1timecounter/Time.h
+
+D:/Code/Cpp/C++designcourse/2.1timecounter/Time.h
+iostream
+-
+
+D:/Code/Cpp/C++designcourse/2.1timecounter/main.cpp
+iostream
+-
+Time.h
+D:/Code/Cpp/C++designcourse/2.1timecounter/Time.h
+
